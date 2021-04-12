@@ -14,6 +14,3 @@
 - 절차적 관점 접근(Process Perspective Approach): SPICE, CMMI, 6-sigma, ITIL, PSP, TSP, MBASE 
 - 기술적 관점 접근(Technical Perspective Approach: OOP, UML, CBD, Design Pattern, Refactoring
 - 경험적 관점 접근(Experience Perspective Approach: Experience Factory, Agile, Opportunity Tree, ROI
-
-* 소프트웨어 개발 프로세스
-![image](https://user-images.githubusercontent.com/73435545/114428271-ef101200-9bf6-11eb-8b0b-3bc6e0d3645d.png)
