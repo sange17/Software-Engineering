@@ -15,10 +15,10 @@
 * 기술적 관점 접근(Technical Perspective Approach: OOP, UML, CBD, Design Pattern, Refactoring
 * 경험적 관점 접근(Experience Perspective Approach: Experience Factory, Agile, Opportunity Tree, ROI
 
-### 소프트웨어 개발 프로세스
+### ::소프트웨어 개발 프로세스
 1. 소프트웨어 제안(Proposal)
-  * 제안(Proposal)
-  * 단계별 산출물: 과제제안서, 과제심의회의록
+    * 제안(Proposal)
+    * 단계별 산출물: 과제제안서, 과제심의회의록
 2. 소프트웨어 분석(Analysis)
     * 요구분석/개발계획
     * 시스템시험계획
