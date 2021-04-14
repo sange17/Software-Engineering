@@ -22,8 +22,8 @@
 6. 소프트웨어 구현(Implementation)
 7. 소프트웨어 시험(Test)
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
+|   S/W제안  |  S/W분석  |  S/W설계  |  S/W구현  |  S/W시험  |
+|:----------:|:---------:|:---------:|:---------:|:---------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
