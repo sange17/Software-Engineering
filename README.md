@@ -11,9 +11,9 @@
 **즉, 소프트웨어 공학은 합리적인 기술과 최적의 품질을 가진 제품을 최적의 타이밍에 고객에게 납기하기 위해서 필요하다.**
 
 ### ❓소프트웨어의 접근 방법 3가지
-* 절차적 관점 접근(Process Perspective Approach): SPICE, CMMI, 6-sigma, ITIL, PSP, TSP, MBASE 
-* 기술적 관점 접근(Technical Perspective Approach: OOP, UML, CBD, Design Pattern, Refactoring
-* 경험적 관점 접근(Experience Perspective Approach: Experience Factory, Agile, Opportunity Tree, ROI
+* 절차적 관점 접근(Process Perspective Approach): SPICE, CMMI, 6-sigma, ITIL, PSP, TSP, MBASE)
+* 기술적 관점 접근(Technical Perspective Approach: OOP, UML, CBD, Design Pattern, Refactoring)
+* 경험적 관점 접근(Experience Perspective Approach: Experience Factory, Agile, Opportunity Tree, ROI)
 
 ### ❓소프트웨어 개발 프로세스
 1. 소프트웨어 제안(Proposal)
@@ -39,3 +39,13 @@
     * 시스템시험
     * S/W 시험 단계
     * 단계별 산출물: S/W시스템시험서, S/W개발완료보고서
+
+### ❓소프트웨어 관점
+'철학적 관점'
+* 역사가 흐름에 따라 체험을 하게되고 <u>문화<u>가 형성되어 문명의 발전을 이루게 된다.
+* 산업발전을 통해서 문명이 형성되고 그 문명을 통해서 산업발전을 이룩하게 되는데 산업과 문명을 통해서 <u>문화적 제도<u>가 만들어지고 시간이 지남에 따라 개선된다.
+* 보 문화: Disital 문화, Software 문화
+'공학적 관점'
+* 과학: formal method, Metrics, 검증모델
+* 공학: modeling, Architecture Design, CASE(Computer Aided Software Engineering)
+* 방법론: Guide, Pattern, Specification(명세화), Criteria(검증, 허가)
