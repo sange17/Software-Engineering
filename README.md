@@ -50,3 +50,8 @@
 * 과학: formal method, Metrics, 검증모델
 * 공학: modeling, Architecture Design, CASE(Computer Aided Software Engineering)
 * 방법론: Guide, Pattern, Specification(명세화), Criteria(검증, 허가)
+
+
+|내용|
+|---|---|
+|내용|내뇽|
