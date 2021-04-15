@@ -52,6 +52,6 @@
 * 방법론: Guide, Pattern, Specification(명세화), Criteria(검증, 허가)
 
 
-|내용|
+|내용|내용|
 |---|---|
 |내용|내뇽|
